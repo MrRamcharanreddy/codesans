@@ -26,7 +26,7 @@
   margin-top: 2rem;
   padding: 1rem;
   cursor: pointer;
-  background-color: #28a745;
+  background-color: #2ecc71;
   border: 1px solid transparent;
   border-radius: 0.25rem;
   color: #fff;
@@ -52,12 +52,13 @@
   padding: 1rem;
   margin-top: 2rem;
   border-radius: 0.3rem;
+  background-color: #f1c40f;
 }
 .resetButton {
   margin-top: 2rem;
   padding: 1rem;
   cursor: pointer;
-  background-color: #dc3545;
+  background-color: #e74c3c;
   border: 1px solid transparent;
   border-radius: 0.25rem;
   color: #fff;
