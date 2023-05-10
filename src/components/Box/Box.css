@@ -17,18 +17,21 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .house {
-  background-color: #7ca9f2;
-  border-color: #7ca9f2;
+  background-color: #ffadad;
+  border-color: #ffadad;
 }
+
 .plot {
-  background-color: #ffde96;
-  border-color: #ffde96;
+  background-color: #ffd6a5;
+  border-color: #ffd6a5;
 }
+
 .service {
-  background-color: #fa6e6e;
-  border-color: #fa6e6e;
+  background-color: #caffbf;
+  border-color: #caffbf;
   text-transform: capitalize;
 }
+
 .boxContent {
   display: flex;
   align-items: center;
